@@ -20,7 +20,6 @@ LINKS = ["https://store.steampowered.com/app/3417410/Storebound/https://store.st
 NAMES = [];
 IMGS = [];
 
-
 b1.addEventListener("click", function(){
     console.log("b1 clicked");
     window.open("https://store.steampowered.com/app/3417410/Storebound/https://store.steampowered.com/app/3417410/Storebound/","_blank");
